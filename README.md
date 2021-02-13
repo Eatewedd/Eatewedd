@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Eatewedd
-- 👀 I’m interested in learning Java for test atuomation.
+- 👀 I’m interested in learning Java for test automation.
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
